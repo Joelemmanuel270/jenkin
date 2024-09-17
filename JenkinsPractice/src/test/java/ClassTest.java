@@ -1,6 +1,6 @@
 import org.testng.annotations.Test;
 
-public class Class  {
+public class ClassTest{
 	
 	@Test
 	private void product() {
