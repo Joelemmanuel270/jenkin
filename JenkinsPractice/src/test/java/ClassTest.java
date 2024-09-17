@@ -5,6 +5,7 @@ public class ClassTest{
 	@Test
 	private void product() {
 		System.out.println("This is product");
+		System.out.println("hello");
 
 	}
 
