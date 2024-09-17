@@ -1,7 +1,8 @@
+import org.testng.annotations.Test;
 
-public class Class {
+public class Class  {
 	
-	@test
+	@Test
 	private void product() {
 		System.out.println("This is product");
 
