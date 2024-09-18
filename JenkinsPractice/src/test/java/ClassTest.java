@@ -9,6 +9,8 @@ public class ClassTest{
 		System.out.println("hello");
 		
 		System.out.println("hello");
+		String property = System.getProperty("BROWSER");
+		System.out.println(property);
 		
 	}
 
