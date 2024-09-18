@@ -8,7 +8,7 @@ public class ClassTest{
 		System.out.println("This is product");
 		System.out.println("hello");
 		
-		throw new RuntimeException();
+		
 		
 	}
 
