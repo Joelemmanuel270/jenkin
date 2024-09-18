@@ -1,12 +1,15 @@
+
 import org.testng.annotations.Test;
 
 public class ClassTest{
 	
 	@Test
-	private void product() {
+	public void product() {
 		System.out.println("This is product");
 		System.out.println("hello");
-
+		
+		throw new RuntimeException();
+		
 	}
 
 }
